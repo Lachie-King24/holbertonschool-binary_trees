@@ -8,7 +8,7 @@
 void binary_tree_delete(binary_tree_t *tree)
 {
 	if (tree == NULL)
-		return (NULL);
+		return;
 
 	/* Use recursion to start at the bottom node starting left */
 	binary_tree_delete(tree->left);
