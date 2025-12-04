@@ -24,10 +24,7 @@ binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 	node->n = value;
 	node->parent = parent;
 
-	/* if a node already exists in parent->right,
-	 * asign temp to the old node
-	 * asign temp to the right child of the new node
-	 * make the new node the parent of the old node */
+	/* if a node already exists in parent->right,asign temp to the old node, asign temp to the right child of the new node, make the new node the parent of the old node */
 	if (parent->right)
 	{
 		temp = parent->right;
@@ -38,8 +35,7 @@ binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
 	else
 		node->right = NULL;
 
-	/* asign the left child of the node to NULL
-	 * asign the right child of the parent to the new node */
+	/* asign the left child of the node to NULL, asign the right child of the parent to the new node */
 	node->left = NULL;
 	parent->right = node;
 
