@@ -12,7 +12,7 @@ void binary_tree_delete(binary_tree_t *tree)
 
 	/* Use recursion to start at the bottom node starting left */
 	binary_tree_delete(tree->left);
-	binary_tree_delete(tree-right);
+	binary_tree_delete(tree->right);
 
 	/* free the child node, and then go back and do it again until tree is gone */
 	free(tree);
