@@ -10,3 +10,5 @@ This README outlines what each function does in regards to binary trees
 
 4-binary_tree_is_leaf 	       - checks if a node is a leaf
 
+5-binary_tree_is_root 	       - checks if a node is root
+
