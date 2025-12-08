@@ -16,3 +16,5 @@ This README outlines what each function does in regards to binary trees
 
 7-binary_tree_inorder	       - goes through a binary tree using in-order traversal
 
+8-binary_tree_postorder	       - goes through a binary using using post-order traversal
+
