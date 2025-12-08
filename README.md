@@ -8,3 +8,5 @@ This README outlines what each function does in regards to binary trees
 
 3-binary_tree_delete 	       - deletes a whole tree
 
+4-binary_tree_is_leaf 	       - checks if a node is a leaf
+
