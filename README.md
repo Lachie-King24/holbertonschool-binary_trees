@@ -12,3 +12,5 @@ This README outlines what each function does in regards to binary trees
 
 5-binary_tree_is_root 	       - checks if a node is root
 
+6-binary_tree_preorder	       - goes through a binary tree using pre-order traversal
+
