@@ -18,3 +18,5 @@ This README outlines what each function does in regards to binary trees
 
 8-binary_tree_postorder	       - goes through a binary using using post-order traversal
 
+9-binary_tree_height 	       - goes through a binary tree and checks the height of the tree
+
