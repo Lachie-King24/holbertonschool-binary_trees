@@ -24,3 +24,5 @@ This README outlines what each function does in regards to binary trees
 
 11-binary_tree_size	       - measures the size of a binary tree
 
+12-binary_tree_leaves	       - counts the leaves of a tree
+
