@@ -30,3 +30,5 @@ This README outlines what each function does in regards to binary trees
 
 14-binary_tree_balance	       - measures the balance of a binary tree
 
+15-binary_tree_is_full	       - checks if a binary tree is full
+
