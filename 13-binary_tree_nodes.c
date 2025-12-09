@@ -27,7 +27,7 @@ size_t binary_tree_nodes(const binary_tree_t *tree)
 
 	total = left_count + right_count;
 
-	if (tree->left || tree-right)
+	if (tree->left || tree->right)
 		total += 1;
 
 	return (total);
