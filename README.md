@@ -22,3 +22,5 @@ This README outlines what each function does in regards to binary trees
 
 10-binary_tree_depth	       - measures the depth of a node in a tree
 
+11-binary_tree_size	       - measures the size of a binary tree
+
