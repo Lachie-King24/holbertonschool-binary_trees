@@ -26,3 +26,5 @@ This README outlines what each function does in regards to binary trees
 
 12-binary_tree_leaves	       - counts the leaves of a tree
 
+13-binary_tree_nodes	       - counts the nodes with at least one child
+
