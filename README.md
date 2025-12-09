@@ -28,3 +28,5 @@ This README outlines what each function does in regards to binary trees
 
 13-binary_tree_nodes	       - counts the nodes with at least one child
 
+14-binary_tree_balance	       - measures the balance of a binary tree
+
