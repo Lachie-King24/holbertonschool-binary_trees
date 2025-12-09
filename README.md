@@ -20,3 +20,5 @@ This README outlines what each function does in regards to binary trees
 
 9-binary_tree_height 	       - goes through a binary tree and checks the height of the tree
 
+10-binary_tree_depth	       - measures the depth of a node in a tree
+
